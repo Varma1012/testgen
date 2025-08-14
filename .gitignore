@@ -1,0 +1,14 @@
+# Node
+node_modules
+pnpm-lock.yaml
+yarn.lock
+dist
+build
+
+# Env
+.env
+.env.*.local
+
+# Editor
+.vscode
+.DS_Store
